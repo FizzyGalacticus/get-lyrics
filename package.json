@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "jssoup": "^0.0.7",
+    "request": "^2.85.0"
+  },
+  "name": "get-lyrics",
+  "version": "0.5.0",
+  "description": "Retrieve lyrics from several different sources.",
+  "main": "index.js",
+  "repository": "https://www.github.com/FizzyGalacticus/get-lyrics",
+  "author": "Dustin L. Dodson",
+  "license": "MIT",
+  "private": false
+}
